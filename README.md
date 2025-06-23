@@ -12,3 +12,6 @@ git add     (This is going to add a file to the commit)
 git commit m "INSERT COMMIT MESSAGE HERE"    (1:creates a commit 2 Attaches a message to the commit)
 
 git push        (send  the commit to a remote repository)
+
+## THIS IS A DIFFERENT COMMIT! PULL THIS DOWN WITH "git pull"
+
